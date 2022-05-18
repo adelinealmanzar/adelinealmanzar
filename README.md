@@ -10,7 +10,7 @@ const adeline = {
   pronouns: [ 'she', 'her' ],
   code: ['Vanilla Javascript', 'ReactJS', 'React Native', 'HTML', 'CSS', 'Ruby', 'Python'],
   softSkills: ['Git/Github', 'organization', 'leadership'],
-  currentlyLearning: ['React Native']
+  currentlyLearning: ['Algorithms & Data Structures', 'C++']
 }
 ```
 
