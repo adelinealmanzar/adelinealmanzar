@@ -1,16 +1,16 @@
 ## Hi, I'm Adeline!
 
-I'm a software engineer, mostly interested in front-end development. I'm based in Los Angeles, CA.
+I'm a solution/support engineer currently based in Los Angeles, CA and moving to San Francisco, CA soon!
 
-My backgroud is in behavioral biology, business analysis, and leadership. Through the start of my engineering journey, I've been finding passions for bringing people joy and impacting the environment possitively.
+My backgroud is in behavioral biology, data analysis, business analysis, product management, and leadership. Through the start of my engineering journey, I've been finding passions for bringing people joy.
 
 #### More about me
 ```
 const adeline = {
   pronouns: [ 'she', 'her' ],
-  code: ['Vanilla Javascript', 'ReactJS', 'React Native', 'HTML', 'CSS', 'Ruby', 'Python'],
+  technical: ['Vanilla Javascript', 'ReactJS', 'React Native', 'HTML', 'CSS', 'Ruby', 'Python'],
   softSkills: ['Git/Github', 'organization', 'leadership'],
-  currentlyLearning: ['Algorithms & Data Structures', 'C++']
+  currentlyLearning: ['Python'] // refresher
 }
 ```
 
